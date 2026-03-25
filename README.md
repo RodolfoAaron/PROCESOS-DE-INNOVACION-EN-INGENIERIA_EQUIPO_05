@@ -29,12 +29,13 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Aaron** | Líder del equipo | Proyección e innovación social, equidad y finalidad. |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Stefani** | Encargada de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Jordan** | Diseñador | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Will** | Programador | Programación, análisis de datos, simulación |
+| <img src="https://github.com/user-attachments/assets/b8d0e43e-d8fe-4098-9dd4-b3cd456c17ab" width="90"/> | **Aaron** | Líder del equipo | Proyección e innovación social, equidad y finalidad. |
+| <img src="https://github.com/user-attachments/assets/1c83ec3b-c60a-4675-b7b4-b43debbebcf4" width="90"/> | **Stefani** | Encargada de documentación | Comunicación científica, redacción técnica |
+| <img src="https://github.com/user-attachments/assets/815a12a6-695d-49d0-a625-41ac6237b031" width="90"/> | **Jordan** | Diseñador | Diseño de prototipos, creatividad aplicada |
+| <img src="https://github.com/user-attachments/assets/0a16a8dd-2740-4a97-86ef-e0cf0e56decc" width="90"/> | **Will** | Programador | Programación, análisis de datos, simulación |
 
----
+
+
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
